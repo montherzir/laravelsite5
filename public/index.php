@@ -1,5 +1,5 @@
 <?php
-echo "hellow world"; 
+echo "Fuck world"; 
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
